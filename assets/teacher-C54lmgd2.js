@@ -1,0 +1,1 @@
+import{c as e,j as o,R as r}from"./index-RD-i6Uir.js";import{A as n}from"./App-BA1BDUSs.js";const t=document.getElementById("root");if(!t)throw new Error("Could not find root element to mount to");const s=e.createRoot(t);s.render(o.jsx(r.StrictMode,{children:o.jsx(n,{showHtmlExport:!1})}));
