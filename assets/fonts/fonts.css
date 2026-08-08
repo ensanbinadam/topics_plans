@@ -1,0 +1,47 @@
+@font-face {
+  font-family: 'Planner Cairo';
+  src: url('./Cairo-slnt-wght-.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 200 1000;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Planner Tajawal';
+  src: url('./Tajawal-Regular.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Planner Tajawal';
+  src: url('./Tajawal-Bold.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Planner Almarai';
+  src: url('./Almarai-Regular.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Planner Almarai';
+  src: url('./Almarai-Bold.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Planner Noto Kufi Arabic';
+  src: url('./NotoKufiArabic-wght-.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+}
